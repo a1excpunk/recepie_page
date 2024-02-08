@@ -131,4 +131,13 @@ body main .nutrition_container table tr:last-of-type td {
 }
 body footer {
   font-size: 14px;
+}
+body footer .attribution {
+  color: hsl(14, 45%, 36%);
+}
+body footer .attribution a {
+  color: hsl(332, 51%, 32%);
+}
+body footer .attribution a:hover {
+  opacity: 0.8;
 }/*# sourceMappingURL=style.css.map */
